@@ -1,0 +1,34 @@
+*{
+	background-color: gray;
+	border: 20px 20px;
+	
+}
+p{
+	background-color: yellow;
+	color: blueviolet;
+	font-size: 50px;
+}
+#segundo_parrafo{
+	background-color: blue;
+	color: bisque;
+	font-size: 50px;
+}
+.parrafo_estilado{
+	background-color: red;
+	color: blueviolet;
+	font-size: 50px;
+}
+.prob{
+	background-color: red;
+	color: blueviolet;
+	font-size: 50px;
+	border: 20px black;
+}
+div > p {
+	background-color: chocolate;
+}
+li,nav,footer{
+	background-color: hotpink;
+	color: azure;
+	font-size: 60px;
+}
